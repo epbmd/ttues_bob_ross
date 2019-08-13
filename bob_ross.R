@@ -1,5 +1,5 @@
 # let's see what makes a popular bob ross episode
-# make manamde to nature ratio, plot against popularity
+# make manmade to nature ratio, plot against viewCount
 
 # load libraries
 library(tidyverse)
